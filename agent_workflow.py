@@ -1,3 +1,9 @@
+# NOTE: This function currently returns simulated/hardcoded output for prototype for demonstration purposes
+# Production version would call the Claude API here.
+
+
+
+
 import os
 import json
 import datetime
