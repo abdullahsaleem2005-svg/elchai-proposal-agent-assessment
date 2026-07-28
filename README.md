@@ -3,6 +3,10 @@
 **Candidate:** Abdullah Saleem  
 **Role:** AI Agent & OpenClaw Research Intern  
 
+
+Note: Live testing in this prototype was conducted using Groq's Llama 3.3 70B (free tier) as a cost-effective substitute. Production recommendation remains Claude 3.5 Sonnet + DeepSeek-R1 (see full rationale in the assessment PDF).
+
+
 ---
 
 ## Overview
