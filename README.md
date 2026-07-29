@@ -36,10 +36,14 @@ This repository contains a functional workflow prototype demonstrating a **Clien
 
 ## Quick Start
 1. Clone & Navigate
-Bash
-git clone [https://github.com/abdullahsaleem2005-svg/elchai-proposal-agent-assessment.git](https://github.com/abdullahsaleem2005-svg/elchai-proposal-agent-assessment.git)
-cd elchai-proposal-agent-assessment
+   git clone https://github.com/abdullahsaleem2005-svg/elchai-proposal-agent-assessment.git
+   cd elchai-proposal-agent-assessment
 
-2. Run Script
-Bash
-python3 agent_workflow.py
+2. Install dependencies
+   pip install groq
+
+3. Set your API key
+   export GROQ_API_KEY="your-groq-key-here"
+
+4. Run Script
+   python3 agent_workflow.py
